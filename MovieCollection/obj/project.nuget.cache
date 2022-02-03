@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bjwL3akw1Xt0SNuti4LK9ysBUd+K7FXDrcKkuSOjNZE7sXNE5I8cBmp780MUbGddTiJ86dU4j2x3DdA7gLSyjw==",
+  "dgSpecHash": "H0LP84c6V1ysBG/S4LhWcS6Lp/rVncsWga8mzgXlLNqkDGp6zMhNIQtffqjhCeyqN8ib5MKGvJO9n0/YHXHhXg==",
   "success": true,
-  "projectFilePath": "/Users/kyliefromm/Projects/MovieCollection/MovieCollection/MovieCollection.csproj",
+  "projectFilePath": "/Users/kyliefromm/Documents/GitHub/Mission4/MovieCollection/MovieCollection.csproj",
   "expectedPackageFiles": [
     "/Users/kyliefromm/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/kyliefromm/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

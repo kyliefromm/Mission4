@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{B207482B-E907-422A-AE55-156EEC417463}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieCollection/Models/MovieForm.cs">
+    <Files>
+      <File FileName="MovieCollection/Startup.cs" Line="34" Column="21" />
+      <File FileName="MovieCollection/Controllers/HomeController.cs" />
+      <File FileName="MovieCollection/Views/Shared/_Layout.cshtml" />
+      <File FileName="MovieCollection/Views/Home/Confirmation.cshtml" />
+      <File FileName="MovieCollection/Views/Home/Index.cshtml" />
+      <File FileName="MovieCollection/Views/Home/MovieForm.cshtml" />
+      <File FileName="MovieCollection/Views/Home/Podcast.cshtml" />
+      <File FileName="MovieCollection/Views/Home/Privacy.cshtml" />
+      <File FileName="MovieCollection/Models/MovieForm.cs" Line="1" Column="1" />
+      <File FileName="MovieCollection/Models/MovieFormContext.cs" />
+      <File FileName="MovieCollection/Models/ErrorViewModel.cs" />
+      <File FileName="MovieCollection/Program.cs" />
+      <File FileName="../PracticeMission4/DateMe/Controllers/HomeController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieCollection" expanded="True">
+            <Node name="MovieCollection" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="MovieForm.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieCollection PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

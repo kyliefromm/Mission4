@@ -27,11 +27,12 @@ namespace MovieCollection
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<MovieFormContext>(OptionsBuilderConfigurationExtensions =>
-            {
-                OptionsBuilderConfigurationExtensions.UseSqlite(Configuration["ConnectionStrings:HomeConnection"]);
+            services.AddDbContext<MovieFormContext>(options =>
+            
+            { options.UseSqlite(Configuration["ConnectionStrings:HomeConnection"]);
 
-            });
+                    
+                });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
